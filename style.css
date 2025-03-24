@@ -1,0 +1,323 @@
+/*importaçao de fontes*/
+
+/*fonte do menu*/@import url('https://fonts.googleapis.com/css2?family=Didact+Gothic&display=swap');
+/*fonte do header*/@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Didact+Gothic&family=Indie+Flower&family=Noto+Serif:ital,wght@0,100..900;1,100..900&family=Nova+Round&family=Shadows+Into+Light&display=swap');
+/*fonte do h1,h2,h3,h4*/@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Delius+Unicase:wght@400;700&family=Didact+Gothic&family=Indie+Flower&family=Noto+Serif:ital,wght@0,100..900;1,100..900&family=Nova+Round&family=Shadows+Into+Light&family=Shantell+Sans:ital,wght@0,300..800;1,300..800&family=Wire+One&display=swap');
+/*fonto do texto p*/@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Delius+Unicase:wght@400;700&family=Didact+Gothic&family=Edu+SA+Beginner:wght@400..700&family=Gemunu+Libre:wght@200..800&family=Indie+Flower&family=Love+Ya+Like+A+Sister&family=Mansalva&family=Noto+Serif:ital,wght@0,100..900;1,100..900&family=Nova+Round&family=Rosario:ital,wght@0,300..700;1,300..700&family=Shadows+Into+Light&family=Shantell+Sans:ital,wght@0,300..800;1,300..800&family=Sniglet:wght@400;800&family=Wire+One&display=swap');
+/*fonto do rodape*/@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Delius+Unicase:wght@400;700&family=Didact+Gothic&family=Edu+SA+Beginner:wght@400..700&family=Gemunu+Libre:wght@200..800&family=Indie+Flower&family=Love+Ya+Like+A+Sister&family=Noto+Serif:ital,wght@0,100..900;1,100..900&family=Nova+Round&family=Shadows+Into+Light&family=Shantell+Sans:ital,wght@0,300..800;1,300..800&family=Sniglet:wght@400;800&family=Wire+One&display=swap');
+
+
+
+#bodyindex {
+            
+            background-color: white;
+            font-family: "Didact Gothic", sans-serif;
+            font-weight: 400;
+            font-style: normal;
+            color: rgb(0, 0, 0);
+            
+        a {
+            color: rgb(129, 43, 43);  
+        }
+        b {
+            color: rgb(129, 43, 43);
+        }
+        }
+
+
+h1, h2, h3, h4 {
+    font-family: "Rosario", sans-serif;
+            font-weight: 500;
+            color: rgb(129, 43, 43);
+        }
+
+        
+.bodypag1 {
+            background-color: rgb(228, 236, 223);
+            color: rgb(0, 0, 0);
+            font-family: "Didact Gothic", sans-serif;
+            font-weight: 400;
+            font-style: normal; 
+            margin: 0px;
+            padding : 0px;
+            margin-top: 0px;
+            margin-bottom: 0px;
+            margin-left: 0px;
+            margin-right: 0px;
+
+
+        }
+        a {
+            color: rgb(129, 43, 43);  
+            }
+        b {
+            color: rgb(129, 43, 43);
+            }
+         
+
+.bodypag2 {
+            background-color: rgba(255, 221, 221, 0.808);
+            color: rgb(0, 0, 0);
+            color: rgb(0, 0, 0);
+            font-family: "Didact Gothic", sans-serif;
+            font-weight: 400;
+            font-style: normal; 
+            margin: 0px;
+            padding : 0px;
+            margin-top: 0px;
+            margin-bottom: 0px;
+            margin-left: 0px;
+            margin-right: 0px;   
+        
+        a {
+            color: rgb(129, 43, 43);  
+        }
+        b {
+            color: rgb(129, 43, 43);
+        }
+        }
+
+
+.bodypag3 {
+            background-color: rgba(253, 232, 214, 0.808);
+            font-family: "Didact Gothic", sans-serif;
+            font-weight: 400;
+            font-style: normal; 
+            margin: 0px;
+            padding : 0px;
+            margin-top: 0px;
+            margin-bottom: 0px;
+            margin-left: 0px;
+            margin-right: 0px;
+            
+.videos, .videos2 {
+            text-align: center;      
+        }
+.vd1, .vd2, .vd3, .vdp1, .vdp2, .vdp3 {
+            display: inline-block; 
+            vertical-align: top;
+            margin-right: 20px; 
+            margin-bottom: 20px; 
+        }
+        a {
+            color: rgb(129, 43, 43);  
+        }
+        b {
+            color: rgb(129, 43, 43);
+        }
+        }        
+           
+
+.bodyformulario {
+            background-color: rgb(203,226,236);
+            color: rgb(0, 0, 0);
+            font-family: "Didact Gothic", sans-serif;
+            font-weight: 400;
+            font-style: normal; 
+            margin: 0px;
+            padding : 0px;
+            margin-top: 0px;
+            margin-bottom: 0px;
+            margin-left: 0px;
+            margin-right: 0px;
+
+.img-1 {
+            text-align: center; 
+            }
+.img-1 img {
+            border-radius: 15%; 
+            }
+.formu{
+            margin-left: 20px;
+            }
+        a {
+            color: rgb(129, 43, 43);  
+            }
+        b {
+            color: rgb(129, 43, 43);
+        }
+            
+}
+
+
+                                
+/*-----------------------------------------------------------------------------MENU-----------------------------------------------------------------------------------*/
+
+
+.menu {
+        background: rgb(243,243,243);
+        list-style: none;
+        border: 0px solid black;
+        margin: 0 auto;
+        padding: 0px;
+        display: flex;
+        justify-content: center;
+        font-family: "Didact Gothic", sans-serif;
+        font-weight: 400;
+        font-style: normal; 
+  }
+  
+.menu li {
+      position: relative;
+  }
+  
+  .menu li a {
+      text-decoration: none;
+      padding: 5px 10px;
+      display: block;
+      position: relative;
+      
+  }
+  
+  .menu li a::after {
+      content: "";
+      position: absolute;
+      left: 0px;
+      bottom: 0px;
+      height: 1px;
+      width: 100%;
+      background-color: rgb(163, 114, 114);
+  }
+  
+  .menu li a:hover {
+      background: rgb(203,226,236);
+  }
+  
+  .menu li ul {
+      position: absolute;
+      top: 100%;
+      left: 0px;
+      background-color: rgb(243,243,243);
+      display: none;
+      padding: 0px;
+      margin: 0px;
+      width: 170px;
+  }
+  
+  .menu li:hover ul {
+      display: block;
+  }
+  
+  .menu li ul li {
+      border: 0px solid rgb(214, 206, 183);
+      display: block;
+      width: 100%;
+  }
+  
+  nav {
+      display: flex;
+      text-align: center;
+      margin-top: 10px;
+  }  
+
+/*-----------------------------------------------------------------------------MENU-----------------------------------------------------------------------------------*/
+
+
+/*-----------------------------------------------------------------------------RODAPÉ-----------------------------------------------------------------------------------*/  
+
+  .rodape {
+    background-color: rgba(254,246,225,255);
+           
+  }
+
+ 
+
+/*-----------------------------------------------------------------------------RODAPÉ-----------------------------------------------------------------------------------*/
+
+
+/*-----------------------------------------------------------------------------HEADER-----------------------------------------------------------------------------------*/
+
+
+  header {
+    background-color: rgba(254,246,225,255);
+    padding: 1px;
+    text-align: center;
+    text-decoration: none;
+    font-family: "Nova Round", system-ui;
+    font-weight: 400;
+    font-style: normal;
+          
+  nav {
+      display: flex;
+      justify-content:space-around;
+
+  }
+.headersup{
+    background-color: rgb(173, 187, 22);
+    
+}
+/*-----------------------------------------------------------------------------HEADER-----------------------------------------------------------------------------------*/
+
+/*-----------------------------------------------------------------------------TEXTO-----------------------------------------------------------------------------------*/
+
+}
+  .texto {
+    font-family: "Rosario", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+    margin-top: 5px; 
+    margin-right: 200px; 
+    margin-bottom: 15px; 
+    margin-left: 200px; 
+   
+  }
+
+/*-----------------------------------------------------------------------------TEXTO-----------------------------------------------------------------------------------*/
+
+/*-----------------------------------------------------------------------------IMAGENS-----------------------------------------------------------------------------------*/
+
+.imagens {
+    text-align: center;
+}
+
+.img1, .img2, .img3 {
+    display: inline-block; 
+    vertical-align: top;
+    margin-right: 20px; 
+    margin-bottom: 20px; 
+}
+
+
+.infoimg1 img, .infoimg2 img, .infoimg3 img {
+    width: 100%; 
+}
+
+/*-----------------------------------------------------------------------------IMAGENS-----------------------------------------------------------------------------------*/
+.depoimentos-container {
+    background-color: #f8f8f8; /* Cor de fundo desejada */
+    padding: 20px; /* Espaçamento interno */
+    border-radius: 20px; /* Raio dos cantos arredondados */
+    /* Adicione outros estilos conforme necessário */
+}
+
+
+
+.text-center, .text-start, .text{
+    text-align: justify;
+    font-family: "Rosario", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+.destaque{
+    background-color: rgba(254,246,225,255); 
+    text-align: center; 
+    color: rgb(126,113,94)
+}
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+  .custom-form-width{
+    width: 400px;
+  }
+
+
+  .cor-de-fundo {
+    background-color: rgba(254,246,225,255);
+  }
+  
+
